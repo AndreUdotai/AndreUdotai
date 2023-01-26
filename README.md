@@ -3,7 +3,7 @@
 > - I am a MERN Stack Developer & a Tech Project Manager
 > - I build fullstack applications and develop web documentations for projects: User Stories using epics & Wireframes.
 
-[![Twitter](https://img.shields.io/twitter/follow/youbee_?label=Andre%20Udotai&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/andreudotai)
+[![Twitter](https://img.shields.io/twitter/follow/andreudotai?label=Andre%20Udotai&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/andreudotai)
 ---
 
 ## 🛠 &nbsp;Tech Stack
